@@ -1,0 +1,7 @@
+# Dependency directory
+node_modules
+
+.env
+.gitignor
+.c9/
+hello.html
